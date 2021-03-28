@@ -1,2 +1,5 @@
-# esp32-automated-water-leak-protection
-Whole-Home Water Leak and Shutoff System Based on the ESP32
+# Whole Home Wireless Water Leak Detector and Emergency Water Shutoff System
+
+This are the source files associated with the project described here:
+
+https://www.instructables.com/Whole-Home-Wireless-Water-Leak-Detector-and-Emerge/
